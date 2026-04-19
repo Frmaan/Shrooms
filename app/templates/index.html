@@ -1,15 +1,15 @@
 <!doctype html>
 <html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Shrooms</title>
-  <link rel="stylesheet" href="../static/css/styles.css">
-</head>
-<body>
-  <main class="hero" role="main" aria-label="Landing hero">
-    <h1>Let's Learn About Mushrooms...!</h1>
-    <a class="cta" href="#">Let's Go</a>
-  </main>
-</body>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width,initial-scale=1" />
+        <title>Shrooms</title>
+        <link rel="stylesheet" href="../static/css/styles.css" />
+    </head>
+    <body>
+        <main class="hero" role="main" aria-label="Landing hero">
+            <h1>Let's Learn About Mushrooms...!</h1>
+            <a class="cta" href="{{ url_for('main.quiz') }}">Let's Go</a>
+        </main>
+    </body>
 </html>

@@ -1,74 +1,65 @@
 [
-{
-    "id" : "mush_1",
+  {
+    "id": "mush_1",
     "common_name": "Gucchi/Morel",
-    " scientific name": "Morchella esculenta ",
-    "image": "mus"
-
-},
-
-{
-    "id" : "mush_2",
-    "common_name": " Aspen ",
-    " scientific name": " Pleurotus populinus ",
-    "image": "mus"
-
-},
-
-{
-    "id" : "mush_3",
+    "scientific name": "Morchella esculenta",
+    "image": "images/mush_imgs/morel.jpeg",
+    "description": "Placeholder description for Gucchi/Morel mushroom."
+  },
+  {
+    "id": "mush_2",
+    "common_name": "Aspen",
+    "scientific name": "Pleurotus populinus",
+    "image": "images/mush_imgs/aspen.png",
+    "description": "Placeholder description for Aspen mushroom."
+  },
+  {
+    "id": "mush_3",
     "common_name": "Portobello",
-    " scientific name": " Agaricus bisporus  ",
-    "image": "mus"
-
-},
-
-
-{
-    "id" : "mush_5",
+    "scientific name": "Agaricus bisporus",
+    "image": "images/mush_imgs/portobello.png",
+    "description": "Placeholder description for Portobello mushroom."
+  },
+  {
+    "id": "mush_5",
     "common_name": "Shajkan",
-    " scientific name": " `Geopora arenicola  ",
-    "image": "mus"
-
-},
-
-{
-    "id" : "mush_6",
+    "scientific name": "Geopora arenicola",
+    "image": "images/mush_imgs/shajkan.jpg",
+    "description": "Placeholder description for Shajkan mushroom."
+  },
+  {
+    "id": "mush_6",
     "common_name": "Gucchi",
-    " scientific name": "Morchella esculenta ",
-    "image": "mus"
-
-},
-
-{
-    "id" : "mush_7",
+    "scientific name": "Morchella esculenta",
+    "image": "images/mush_imgs/gucchi_6.jpeg",
+    "description": "Placeholder description for Gucchi mushroom."
+  },
+  {
+    "id": "mush_7",
     "common_name": "Gucchi",
-    " scientific name": "Morchella esculenta ",
-    "image": "mus"
-
-},
-
-{
-    "id" : "mush_8",
+    "scientific name": "Morchella esculenta",
+    "image": "images/mush_imgs/gucchi_7.jpeg",
+    "description": "Placeholder description for Gucchi mushroom."
+  },
+  {
+    "id": "mush_8",
     "common_name": "Gucchi",
-    " scientific name": "Morchella esculenta ",
-    "image": "mus"
-
-},
-
-{
-    "id" : "mush_9",
+    "scientific name": "Morchella esculenta",
+    "image": "images/mush_imgs/gucchi_8.jpeg",
+    "description": "Placeholder description for Gucchi mushroom."
+  },
+  {
+    "id": "mush_9",
     "common_name": "Gucchi",
-    " scientific name": "Morchella esculenta ",
-    "image": "mus"
-
-},
-
-{
-    "id" : "mush_10",
+    "scientific name": "Morchella esculenta",
+    "image": "images/mush_imgs/gucchi_9.jpeg",
+    "description": "Placeholder description for Gucchi mushroom."
+  },
+  {
+    "id": "mush_10",
     "common_name": "Gucchi",
-    " scientific name": "Morchella esculenta ",
-    "image": "mus"
-
-}
+    "scientific name": "Morchella esculenta",
+    "image": "images/mush_imgs/gucchi_10.jpeg",
+    "description": "Placeholder description for Gucchi mushroom."
+  }
 ]

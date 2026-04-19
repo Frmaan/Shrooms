@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Quiz Page</title>
+        <link rel="stylesheet" href="../static/css/quiz.css" />
+    </head>
+    <body>
+        <script>
+        function delaySubmit(event) {
+          const button = event.submitter;
+          const form = event.target;
+          const image = document.getElementById("quiz-image");
+          const correctName = "{{ mushroom.common_name }}";
+          const selected = button.value;
+
+          // Set border color
+          image.style.borderColor = selected === correctName ? "green" : "red";
+
+          // Prevent immediate submit
+          event.preventDefault();
+
+          // Submit form after 1.5 seconds
+          setTimeout(() => {
+            form.submit();
+          }, 1500);
+        }
+        </script>
+
+        <form method=""POST" onsubmit="delaySubmit(event)">
+            <div class="image-container">
+                <img
+                    id="quiz-image"
+                    src="{{ url_for('static', filename=mushroom.image) }}"
+                    class="random-image border-white"
+                />
+            </div>
+
+            <p class="hint">{{ mushroom.description }}</p>
+
+            <div class="options">
+                {% for option in options %}
+                    <button type="submit" name="answer" value="{{ option }}" class="option-btn">{{ option }}</button>
+                {% endfor %}
+            </div>
+        </form>
+    </body>
+</html>

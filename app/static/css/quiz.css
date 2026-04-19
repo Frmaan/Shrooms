@@ -1,0 +1,62 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    background: url("../images/quiz.jpg") center/cover no-repeat fixed;
+}
+
+form {
+    margin: 0;
+    padding: 0;
+}
+
+.random-image {
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+    border: 5px solid;
+    border-radius: 10px;
+    transition: border-color 0.3s ease;
+}
+
+.border-green {
+    border-color: green;
+}
+.border-red {
+    border-color: red;
+}
+.border-white {
+    border-color: white;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding-top: 80px;
+}
+
+.hint {
+    text-align: center;
+    margin-top: 20px;
+    color: #fff;
+    font-size: 18px;
+}
+
+.options {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 50px;
+}
+
+.option-btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}

@@ -17,7 +17,7 @@
     "id": "3",
     "common_name": "Maaz-hedur",
     "scientific name": "",
-    "image": "images/mush_imgs/portobello.png",
+    "image": "images/mush_imgs/maaz-hedur.jpg",
     "description": "Cultivated button mushroom."
   },
   {
@@ -31,7 +31,7 @@
     "id": "5",
     "common_name": "Dingri",
     "scientific name": "Pleurotus ostreatus",
-    "image": "images/mush_imgs/maaz-hedur.jpg",
+    "image": "images/mush_imgs/dingri.jpg",
     "description": "These are commonly found on decaying wood."
   },
   {

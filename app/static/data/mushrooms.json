@@ -1,65 +1,72 @@
 [
   {
-    "id": "mush_1",
-    "common_name": "Gucchi/Morel",
+    "id": "1",
+    "common_name": "Gucchi",
     "scientific name": "Morchella esculenta",
     "image": "images/mush_imgs/morel.jpeg",
-    "description": "Placeholder description for Gucchi/Morel mushroom."
+    "description": "Found in temperate forests in districts like Doda, kupwara, and Poonch."
   },
   {
-    "id": "mush_2",
-    "common_name": "Aspen",
-    "scientific name": "Pleurotus populinus",
-    "image": "images/mush_imgs/aspen.png",
-    "description": "Placeholder description for Aspen mushroom."
+    "id": "2",
+    "common_name": "Batt Kutch",
+    "scientific name": "Morchella rotunda",
+    "image": "images/mush_imgs/batt-kutch.jpg",
+    "description": "Typically eaten with rice."
   },
   {
-    "id": "mush_3",
-    "common_name": "Portobello",
-    "scientific name": "Agaricus bisporus",
+    "id": "3",
+    "common_name": "Maaz-hedur",
+    "scientific name": "",
     "image": "images/mush_imgs/portobello.png",
-    "description": "Placeholder description for Portobello mushroom."
+    "description": "Cultivated button mushroom."
   },
   {
-    "id": "mush_5",
+    "id": "4",
     "common_name": "Shajkan",
     "scientific name": "Geopora arenicola",
     "image": "images/mush_imgs/shajkan.jpg",
-    "description": "Placeholder description for Shajkan mushroom."
+    "description": "These grow in high-altitude coniferous forests."
   },
   {
-    "id": "mush_6",
-    "common_name": "Gucchi",
-    "scientific name": "Morchella esculenta",
-    "image": "images/mush_imgs/gucchi_6.jpeg",
-    "description": "Placeholder description for Gucchi mushroom."
+    "id": "5",
+    "common_name": "Dingri",
+    "scientific name": "Pleurotus ostreatus",
+    "image": "images/mush_imgs/maaz-hedur.jpg",
+    "description": "These are commonly found on decaying wood."
   },
   {
-    "id": "mush_7",
-    "common_name": "Gucchi",
-    "scientific name": "Morchella esculenta",
-    "image": "images/mush_imgs/gucchi_7.jpeg",
-    "description": "Placeholder description for Gucchi mushroom."
+    "id": "6",
+    "common_name": "Maazkhel",
+    "scientific name": "Macrolepiota procera",
+    "image": "images/mush_imgs/maazkhel.jpg",
+    "description": "These are prized for their neat-like flavor and texture."
   },
   {
-    "id": "mush_8",
-    "common_name": "Gucchi",
-    "scientific name": "Morchella esculenta",
-    "image": "images/mush_imgs/gucchi_8.jpeg",
-    "description": "Placeholder description for Gucchi mushroom."
+    "id": "7",
+    "common_name": "Dudh Katt",
+    "scientific name": "Bovista plumbea",
+    "image": "images/mush_imgs/dudh-katt.jpg",
+    "description": "Edible while young and purely white inside."
   },
   {
-    "id": "mush_9",
-    "common_name": "Gucchi",
-    "scientific name": "Morchella esculenta",
-    "image": "images/mush_imgs/gucchi_9.jpeg",
-    "description": "Placeholder description for Gucchi mushroom."
+    "id": "8",
+    "common_name": "Kankich",
+    "scientific name": "Auricularia auricula-judae",
+    "image": "images/mush_imgs/kankich.jpg",
+    "description": "Traditionally used to treat weakness after childbirth."
   },
   {
-    "id": "mush_10",
-    "common_name": "Gucchi",
-    "scientific name": "Morchella esculenta",
-    "image": "images/mush_imgs/gucchi_10.jpeg",
-    "description": "Placeholder description for Gucchi mushroom."
+    "id": "9",
+    "common_name": "Paien Loj",
+    "scientific name": "Morchella conica",
+    "image": "images/mush_imgs/paien-loj.jpg",
+    "description": "Straight,stick-like,found in forests."
+  },
+  {
+    "id": "10",
+    "common_name": "Kanpapri",
+    "scientific name": "Helvella leucopus",
+    "image": "images/mush_imgs/kanpapri.jpg",
+    "description": "Saddle-shaped fungus often found near poplars."
   }
 ]

@@ -14,11 +14,11 @@ form {
 }
 
 .random-image {
-    width: 400px;
-    height: 400px;
+    width: 600px;
+    height: 500px;
     object-fit: cover;
-    border: 5px solid;
-    border-radius: 10px;
+    border: 10px solid;
+    border-radius: 20px;
     transition: border-color 0.3s ease;
 }
 

@@ -1,0 +1,74 @@
+[
+{
+    "id" : "mush_1",
+    "common_name": "Gucchi/Morel",
+    " scientific name": "Morchella esculenta ",
+    "image": "mus"
+
+},
+
+{
+    "id" : "mush_2",
+    "common_name": " Aspen ",
+    " scientific name": " Pleurotus populinus ",
+    "image": "mus"
+
+},
+
+{
+    "id" : "mush_3",
+    "common_name": "Portobello",
+    " scientific name": " Agaricus bisporus  ",
+    "image": "mus"
+
+},
+
+
+{
+    "id" : "mush_5",
+    "common_name": "Shajkan",
+    " scientific name": " `Geopora arenicola  ",
+    "image": "mus"
+
+},
+
+{
+    "id" : "mush_6",
+    "common_name": "Gucchi",
+    " scientific name": "Morchella esculenta ",
+    "image": "mus"
+
+},
+
+{
+    "id" : "mush_7",
+    "common_name": "Gucchi",
+    " scientific name": "Morchella esculenta ",
+    "image": "mus"
+
+},
+
+{
+    "id" : "mush_8",
+    "common_name": "Gucchi",
+    " scientific name": "Morchella esculenta ",
+    "image": "mus"
+
+},
+
+{
+    "id" : "mush_9",
+    "common_name": "Gucchi",
+    " scientific name": "Morchella esculenta ",
+    "image": "mus"
+
+},
+
+{
+    "id" : "mush_10",
+    "common_name": "Gucchi",
+    " scientific name": "Morchella esculenta ",
+    "image": "mus"
+
+}
+]
